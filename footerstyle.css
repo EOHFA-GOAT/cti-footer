@@ -11,7 +11,7 @@ a{
   width: 100%;
   height: auto;
   margin: auto;
-  background #272727;
+  background: #272727;
   padding: 20px 0px;
 }
 .footer-socials-icons{
@@ -33,7 +33,7 @@ a{
     background: #0000FF;
 }
 .footer-socials-icons ul li a{
-    color:#0000FF;
+    color: #0000FF;
     font-size: 25px;
     display: block;
 }
@@ -57,7 +57,7 @@ a{
 .footer-menu-one ul li a {
     font-family: arial;
     font-size: 15px;
-    font-weight:600;
-    color:#fff;
+    font-weight: 600;
+    color: #fff;
     text-transform: uppercase;
 }
