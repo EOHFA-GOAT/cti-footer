@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.footer-main-div{
+  width: 100%;
+  height: auto;
+  margin: auto;
+  background #272727;
+  padding: 20px 0px;
+
+}
