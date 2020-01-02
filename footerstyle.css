@@ -3,6 +3,10 @@
     padding: 0px;
     box-sizing: border-box;
 }
+a{
+       text-decoration: none;
+       outline: none;
+}
 .footer-main-div{
   width: 100%;
   height: auto;
@@ -31,7 +35,29 @@
 .footer-socials-icons ul li a{
     color:#0000FF;
     font-size: 25px;
+    display: block;
 }
 .footer-social-icons ul li a i{
     line-height: 50px;   
+}
+.footer-menu-one{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+.footer-menu-one ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.footer-menu-one ul li{
+    display: inline-block;
+    margin: 0px 20px;
+}
+.footer-menu-one ul li a {
+    font-family: arial;
+    font-size: 15px;
+    font-weight:600;
+    color:#fff;
+    text-transform: uppercase;
 }
