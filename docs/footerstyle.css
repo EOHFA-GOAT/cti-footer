@@ -1,6 +1,6 @@
 /* FOOTER */
 html, body {
-    min-height: 85%;
+    min-height: 70%;
     padding: 0px;
     margin: 0px;
     background: #f6f6f6;
@@ -13,7 +13,7 @@ html, body {
 .footer {
     background:  #3c4894;
     color: #d3d3d3;
-    max-height: 15%;
+    max-height: 30%;
     
     
 }
